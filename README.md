@@ -1,4 +1,4 @@
-# SaphireTrail
+# Saphire Trail
 
 # Nautical Encounters
 Roll d100 a number of times based on distance travelled, rolling above the current threat level causes a roll on the dynamic threat table
@@ -6,7 +6,8 @@ Roll d100 a number of times based on distance travelled, rolling above the curre
 
 Effect | Dynamic Threat | Description
 ------ | ----------- | --------------
-
++5     |  ---        | A moderate storm has blown through the region, there are less people out on the water
++10    | ---         | A devestating storm has wrecked the area, NO ONE is on the water
 
 d10 | Encounter
 --- | ---------
