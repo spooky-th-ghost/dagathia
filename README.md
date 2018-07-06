@@ -1,4 +1,4 @@
-# Sapphire Trail
+# Sapphire Line
 Enter
 
 ## Ports
@@ -21,14 +21,18 @@ Effect | Dynamic Threat | Description
 +10    |  ---        | A devestating storm has wrecked the area, NO ONE is on the water
 -10    | Monsters    | A tropical storm has agitated the waters, causing monsters to become agitated
 -10    | Pirates     | There is rumor of a high amount of treasure in the region, Sending all manner of mid tolow level pirate crews out to the sea
--10    | Travelers  | There was a recent trade summit or festival in a nearby port
+-10    | Navy        | A recent naval training exercise or operation has the water swarming wiht naval ships
+-15    | Travelers  | There was a recent trade summit or festival in a nearby port
+
+### Bounty
+While adventuring through the Sapphire Line PC's are bound to ruffle the feathers of either favor the Navy or the pirates. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. 
 
 When travelling between islands roll d100, if the roll is above the encounter level roll on the following table to determine the encounter
 
 d10 | Encounter | Hostility | Description
 --- | --------- | --------- | -----------
---- | Pirates | with neutral or low bounty/grit pirates serve as the opposing force | Outlaws of the sea
---- | Navy | with high bounty/grit the navy serves as the opposing force | The governments force to impose the, at times tyranical rule of law
+--- | Pirates | with grey or white bounty pirates serve as the opposing force | Outlaws of the sea
+--- | Navy | with black bounty the navy serves as the opposing force | The governments force to impose the, at times tyranical rule of law
 1-2 | Opposing Force |-----  | Pirates or Navy, depending on the parties status in the world
 3-4 | Monsters  | Hostile | Various flying or swimming creatures
 5   | Travelers | Neutral | Any manner of merchants, bounty hunters, and adventurers
