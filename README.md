@@ -1,5 +1,17 @@
-# Sapphire Line
-Enter
+# The Sapphire Line
+
+
+## Ships
+With around 90% of the planet covered in water, aquatic vessels serve the primary means of transportation for many. Over the course of history, many different methods of nautical travel have been explored and perfected.
+
+### Steam Chargers 
+Due to the efforts past of those with an affinity for metal work, Steam chargers are a common sight on the horizon. These large ships often sport metalic siding, and are often propelled by collosal steam engines located in the ships hull. Most Steam Chargers have an engineer to serve as a shipwright and helmsman
+
+### Arcane Galleons
+Not all ship builders enjoy tinkering with steam pipes and iron, Arcane Galleons serve as a valid choice for many who take to the seas. From the outside these would be easy to mistake for a traditional galleon until heading below deck. At the heart of most arcane galleons is a spellcaster who has dedicated their time and energy into helming these ships, using their magical talent to perform maintence and other meanial tasks on a ship by use of constructs, these 'Tin men' as they are often called are usually composed of driftwood stone, animated through the arcane arts in order make the maintenence of a ship far easier. Arcane Galleons almost always have a sea mage on board to serve as Shipwright and Helmsman
+
+### Orcish Longship
+Some wayfarers prefer not to fix what isn't broken, and opt to utilize the power of those on board to move the ship. The more honorable of these ships will feature a great many noble warriors below deck, rowing when the winds are uncooperative. Sadly much of the time, this is not the case, and you will be likely to find a legion of slaves below decks, populated by those unlucky enough to be captured by during an orcish raid. Orcish longships are often repaired by the slaves on board and Helmed by an overseer.
 
 ## Ports
 The world of the Sapphire Line thrives on nautical trade, ports are fairly common throughout the region, some ports are known for specific trades and items, in ports players are able to do a number of things:
@@ -40,7 +52,7 @@ d10 | Encounter | Hostility | Description
 7-10 | Dynamic Encounter |-----| Whichever encounter is more likely based on current events
 
 
-## The Ship 
+## Ship Mechanics 
 Players must regularly spend money at a port to maintain the ship and buy food
 * The first mate will give them warnings and advice about when they need too, if they neglect too the ship will slowly fall into disrepair
 * Crew mates will generally be pretty non-descript outside of the first mate
