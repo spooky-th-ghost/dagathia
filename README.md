@@ -1,7 +1,7 @@
 # The Sapphire Line
 
 
-## Ships
+## Common Ships
 With around 90% of the planet covered in water, aquatic vessels serve the primary means of transportation for many. Over the course of history, many different methods of nautical travel have been explored and perfected.
 
 ### Steam Chargers 
@@ -15,7 +15,7 @@ Some wayfarers prefer not to fix what isn't broken, and opt to utilize the power
 
 ## Ports
 The world of the Sapphire Line thrives on nautical trade, ports are fairly common throughout the region, some ports are known for specific trades and items, in ports players are able to do a number of things:
-* Maintain the ship
+* Ship maintenence
 * Buy and sell items
 * Turn in bounties
 * Find new wanted posters
@@ -37,7 +37,7 @@ Effect | Dynamic Threat | Description
 -15    | Travelers  | There was a recent trade summit or festival in a nearby port
 
 ### Bounty
-While adventuring through the Sapphire Line PC's are bound to ruffle the feathers of either favor the Navy or the pirates. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. 
+While adventuring through the Sapphire Line PC's are bound to ruffle the feathers of either favor the Navy or the pirates. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. The parties bounty will have a lasting impact on the encounter level when traveling the sea 
 
 When travelling between islands roll d100, if the roll is above the encounter level roll on the following table to determine the encounter
 
