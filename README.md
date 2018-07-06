@@ -1,6 +1,16 @@
 # Sapphire Trail
 Enter
 
+## Ports
+The world of the Sapphire Line thrives on nautical trade, ports are fairly common throughout the region, some ports are known for specific trades and items, in ports players are able to do a number of things:
+* Maintain the ship
+* Buy and sell items
+* Turn in bounties
+* Find new wanted posters
+* Learn skills and trades
+
+Ports will also have an allegiance, wether it be to the Navy or The Pirate Lords, wich effects the general attitude of the denziens of the port towards the PC's. Generally this will not have a drastic affect, PC's with a high bounty/reknowned as pirate hunters can still generally trade and interact with a port, with the exception of the faction capitals, if/when the PC's have a strong connection to one side the other sides capital will essentially be off limits, it IS possible to visit the port but the PC's will not be able to safely use the pier, as well as have a high chance of being recognized and captured/killed.
+
 ## Nautical Encounters
 Roll d100 a number of times based on distance travelled, rolling above the current threat level causes a roll on the dynamic threat table
 * Encounter level is based on current events and the pressence along the route, the following table outlines some more common events that affect threat level
