@@ -3,7 +3,7 @@ Enter
 
 ## Nautical Encounters
 Roll d100 a number of times based on distance travelled, rolling above the current threat level causes a roll on the dynamic threat table
-* Threat level is based on current events and bandit/navy pressence along the route, the following table outlines some more common events that affect threat level
+* Encounter level is based on current events and the pressence along the route, the following table outlines some more common events that affect threat level
 
 Effect | Dynamic Threat | Description
 ------ | ----------- | --------------
@@ -13,13 +13,13 @@ Effect | Dynamic Threat | Description
 -10    | Pirates     | There is rumor of a high amount of treasure in the region, Sending all manner of mid tolow level pirate crews out to the sea
 -10    | Privateers  | There was a recent trade summit or festival in a nearby port
 
-d10 | Encounter
---- | ---------
-1-2   | Pirates
-3-5 | Monsters
-6   | Privateers
-7   | Naval Ship
-8-10 | Dynamic threat (if not listed, roll again)
+d10 | Encounter | Hostility
+--- | --------- | ----------
+1-2   | Pirates | Generally hostile, less likely if players gain reknown as pirates/pirate hunters
+3-5 | Monsters  | Always Hostile
+6   | Privateers | Not always hostile, sometimes seeking to trade goods/information
+7   | Naval Ship |Generally only hostile if players have a bounty or have regularly broken the law
+8-10 | Dynamic Encounter | Refer to the base hostility of the encounter
 
 
 ## The Ship 
