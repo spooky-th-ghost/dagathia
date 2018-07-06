@@ -1,19 +1,20 @@
 # SaphireTrail
 
 # Nautical Encounters
-Roll a number of times based on distance
-roll D100 using the encounter table
-Threat level is based on current events and bandit/navy pressence along the route
+Roll d100 a number of times based on distance travelled, rolling above the current threat level causes a roll on the dynamic threat table
+* Threat level is based on current events and bandit/navy pressence along the route, the following table outlines some more common events that affect threat level
+
+Effect | Dynamic Threat | Description
+------ | ----------- | --------------
+
 
 d10 | Encounter
 --- | ---------
-1   | Pirates
-2   | Sea Creatures
-3   | Flying Creatures
-4   | Privateers
-5   | Naval Scout Ship
-6   | Naval Battleship
-7   | Storm
+1-2   | Pirates
+3-5 | Monsters
+6   | Privateers
+7   | Naval Ship
+8-10 | Dynamic threat (if not listed, roll again)
 
 
 # The Ship 
