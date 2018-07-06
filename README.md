@@ -12,17 +12,16 @@ Effect | Dynamic Threat | Description
 -10    | Monsters    | A tropical storm has agitated the waters, causing monsters to become agitated
 -10    | Pirates     | There is rumor of a high amount of treasure in the region, Sending all manner of mid tolow level pirate crews out to the sea
 -10    | Travelers  | There was a recent trade summit or festival in a nearby port
--10 | reasonable bounty
 
 d10 | Encounter | Hostility | Description
 --- | --------- | --------- | -----------
 --- | Pirates | with neutral or low bounty/grit pirates serve as the opposing force | Outlaws of the sea
 --- | Navy | with high bounty/grit the navy serves as the opposing force | The governments force to impose the, at times tyranical rule of law
-1-2 | Opposing Force |  |Pirates or Navy, depending on the parties status in the world
+1-2 | Opposing Force |-----  | Pirates or Navy, depending on the parties status in the world
 3-4 | Monsters  | Hostile | Various flying or swimming creatures
 5   | Travelers | Neutral | Any manner of merchants, bounty hunters, and adventurers
-6 | Neutral/Allied force |Neutral|Whichever faction is not the opposing force|
-7-10 | Dynamic Encounter |---| Whichever encounter is more likely based on current events
+6 | Neutral/Allied force | Neutral|Whichever faction is not the opposing force|
+7-10 | Dynamic Encounter |-----| Whichever encounter is more likely based on current events
 
 
 ## The Ship 
