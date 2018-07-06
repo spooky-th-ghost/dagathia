@@ -1,4 +1,4 @@
-# Saphire Trail
+# Sapphire Trail
 Enter
 
 ## Nautical Encounters
@@ -12,6 +12,8 @@ Effect | Dynamic Threat | Description
 -10    | Monsters    | A tropical storm has agitated the waters, causing monsters to become agitated
 -10    | Pirates     | There is rumor of a high amount of treasure in the region, Sending all manner of mid tolow level pirate crews out to the sea
 -10    | Travelers  | There was a recent trade summit or festival in a nearby port
+
+When travelling between islands roll d100, if the roll is above the encounter level roll on the following table to determine the encounter
 
 d10 | Encounter | Hostility | Description
 --- | --------- | --------- | -----------
