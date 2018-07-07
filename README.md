@@ -54,8 +54,7 @@ d10 | Encounter | Hostility | Description
 
 ## Ship Mechanics 
 Players must regularly spend money at a port to maintain the ship and buy food
-* The first mate will give them warnings and advice about when they need too, if they neglect too the ship will slowly fall into disrepair
-* Crew mates will generally be pretty non-descript outside of the first mate
+* The first mate will give the party warnings and advice about when they need too, if they neglect this for too long the ship will slowly fall into disrepair
 * The Ship houses a large crystal infused with teleportation magic, the PCs can cast a ritual spell that the first mate will teach them:
 - [ ] The ritual can be cast by an individual, teleporting them and any items on them as well as up to one willing or incapacited individual to the crystal on the ship
 - [ ] The ritual can also be cast by multiple PC's in this case they must form a circle to cast, up to 4 individuals and a great amount of material that is in the circle they form will be teleported
