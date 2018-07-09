@@ -14,7 +14,7 @@ Not all ship builders enjoy tinkering with steam pipes and iron, Arcane Galleons
 Some wayfarers prefer not to fix what isn't broken, and opt to utilize the power of those on board to move the ship. The more honorable of these ships will feature a great many noble warriors below deck, rowing when the winds are uncooperative. Sadly much of the time, this is not the case, and you will be likely to find a legion of slaves below decks, populated by those unlucky enough to be captured during an orcish raid. Orcish longships are often repaired by the slaves on board and Helmed by an overseer.
 
 ## Ports
-The world of the Sapphire Line thrives on nautical trade, ports are fairly common throughout the region, some ports are known for specific trades and items, in ports players are able to do a number of things:
+The world of Dagathia thrives on nautical trade, ports are fairly common throughout the region, some ports are known for specific trades and items, in ports players are able to do a number of things:
 * Ship maintenence
 * Buy and sell items
 * Turn in bounties
@@ -37,7 +37,7 @@ Effect | Dynamic Threat | Description
 -15    | Travelers  | There was a recent trade summit or festival in a nearby port
 
 ### Bounty
-While adventuring through the Sapphire Line PC's are bound to ruffle the feathers of either favor the Navy or the pirates. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. The parties bounty will have a lasting impact on the encounter level when traveling the sea 
+While adventuring through Dagathia, PC's are bound to ruffle the feathers of either the Navy or the various pirate crews roaming the seas. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. The parties bounty will have a lasting impact on the encounter level when traveling the sea 
 
 When travelling between islands roll d100, if the roll is above the encounter level roll on the following table to determine the encounter
 
