@@ -55,8 +55,24 @@ d10 | Encounter | Hostility | Description
 ## Ship Mechanics 
 Players must regularly spend money at a port to maintain the ship and buy food
 * The first mate will give the party warnings and advice about when they need too, if they neglect this for too long the ship will slowly fall into disrepair
-* The Ship houses a large crystal infused with teleportation magic, the PCs can cast a ritual spell that the first mate will teach them:
+* Most Ships house a home crystal, a large crystal infused with teleportation magic,allowing anyone attuned to the crystal to cast 'Homebound' as a ritual:
+
+## Homebound
+Casting Time | 10 Minutes (Ritual)
+:----------: | :----------------:
+Range | Self
+Components | V S
+Duration | Instantaneous
+ 
 - [ ] The ritual can be cast by an individual, teleporting them and any items on them as well as up to one willing or incapacited individual to the crystal on the ship
 - [ ] The ritual can also be cast by multiple PC's in this case they must form a circle to cast, up to 4 individuals and a great amount of material that is in the circle they form will be teleported
+
+## World Specific Items
+
+Name | Cost | Weight |Description
+:----: | :---: | :---: | :-----------:
+Calling Crystal | 200gp |1 lb| Allows the user to teleport one person they are familiar with to their location
+Home Crystal | 10,000gp | 2,750 lb | A large crystal, often times built into the core of a ship, any individuals attuned to the crystal can teleport to it by casting the 'Homebound' ritual
+
 
 
