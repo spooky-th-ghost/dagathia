@@ -79,7 +79,7 @@ Home Crystal | 10,000gp | 2,750 lb | A large crystal, often times built into the
 
 ## World Specific Feats
 
-*Coming Soon
+*Coming Soon*
 
 ## World Specific Rules For Character Creation
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
