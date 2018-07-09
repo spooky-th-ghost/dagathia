@@ -1,4 +1,4 @@
-# The Sapphire Line
+# Dagathia
 
 
 ## Common Ships
@@ -54,8 +54,10 @@ d10 | Encounter | Hostility | Description
 
 ## Ship Mechanics 
 Players must regularly spend money at a port to maintain the ship and buy food
-* The first mate will give the party warnings and advice about when they need too, if they neglect this for too long the ship will slowly fall into disrepair
-* Most Ships house a home crystal, a large crystal infused with teleportation magic,allowing anyone attuned to the crystal to cast 'Homebound' as a ritual:
+* If a player owned ship has a first mate, The first mate will give the party warnings and advice about when they need too, if they neglect this for too long the ship will slowly fall into disrepair
+* Most Ships house a home crystal, a large crystal infused with teleportation magic, allowing anyone attuned to the crystal to cast the spell 'Homebound' teleporting them to the crystal.
+
+## World Specific Spells
 
 ### Homebound
 Casting Time | 10 Minutes (Ritual)
@@ -75,5 +77,10 @@ Name | Cost | Weight |Description
 Calling Crystal | 200gp |1 lb| Allows the user to teleport one person they are familiar with to their location
 Home Crystal | 10,000gp | 2,750 lb | A large crystal, often times built into the core of a ship, any individuals attuned to the crystal can teleport to it by casting the 'Homebound' ritual
 
+## World Specific Feats
+
+
+## World Specific Rules For Character Creation
+at 1st level characters may take profieciency with any tool. The world of Dagathia is fundamentally built on the trade of goods and services
 
 
