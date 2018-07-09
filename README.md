@@ -76,6 +76,8 @@ Name | Cost | Weight |Description
 :----: | :---: | :---: | :-----------:
 Calling Crystal | 200gp |1 lb| Allows the user to teleport one person they are familiar with to their location
 Home Crystal | 10,000gp | 2,750 lb | A large crystal, often times built into the core of a ship, any individuals attuned to the crystal can teleport to it by casting the 'Homebound' ritual
+Common Spyglass | 100gp | 1 lb | A handheld telescope used to magnify objects at a distance
+Arcane Spyglass | 5,000 gp | 1 lb | A spyglass enchanted to allow the user to see with 10x the accuracy and distance of it's common equivalent
 
 ## World Specific Feats
 
