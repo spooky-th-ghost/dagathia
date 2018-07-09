@@ -68,7 +68,7 @@ Duration | Instantaneous
  
 Homebound can be cast by an individual, teleporting them and any items on them as well as up to one willing or incapacited individual to the homecrystal they are currently attuned to
 
-The ritual can also be cast by multiple PC's in this case they must form a circle to cast, up to 4 individuals and a great amount of material that is in the circle they form will be teleported
+The ritual can also be cast by multiple people, provided they are attuned to the same home crystal, in this case they must form a circle to cast the spell, up to 4 willing or incapacitated individuals and a great amount of material located inside the circle be teleported to the attuned home crystal.
 
 ## World Specific Items
 
