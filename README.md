@@ -94,10 +94,17 @@ Turta' Mara is one of the largest and most populous ports in all of Dagathia, it
 ### The Four Kings
 One of the defining characteristics of the pirate lifestyle is the refusal to bow to kings or live a life bound by the laws of the common man, however there is a loose code of laws that the pirates do follow, otherwise they would draw the ire of the four Kings, four pirate capitains who serves arbiters and executors of pirate law. Most pirate crews fancy themselves as bannermen of one of these four capitains.
 
-### White-Tusk
-The tall pale Half-Orc/Half-Elf known as White Tusk would appear to most as a complete contradiction. Elves do not associate with Orcs, a race traditionally known to be rather stupid, savage and chaotic, whereas the things White-Tusk are best known for are his vastly surperior intellect, his generally calm and cordial disposition, and his fervor in enforcing the pirates law. It is rumoured that he was the last and only student of Zigarius, the last known golden dragon the world would ever see. Many of those under White-Tusk took to the pirates life to learn all they could of the world, delving in to ancient tombs and ruins in search of hidden secrets.
-### Horji the Radiant - Freedom
-### Black Jenny - Power
-### Bheldus Glitterfist -Wealth
+#### White-Tusk
+The tall pale Half-Orc/Half-Elf known as White Tusk would appear to most as a complete contradiction. Elves do not associate with Orcs, a race traditionally known to be rather stupid, savage and chaotic, whereas the things White-Tusk are best known for are his vastly surperior intellect, his generally calm and cordial disposition, and his fervor in enforcing the pirates law. It is rumoured that he was the last and only student of Zigarius, the last known golden dragon the world would ever see. Many of those who pay homage to White-Tusk took to the pirates life to learn all they could of the world, delving in to ancient tombs and ruins in search of hidden secrets.
+
+#### Black Jenny
+For
+
+
+#### Horji the Radiant
+It is said that the slight gnome known as Horji could, given the time and audience, seduce even the likes of Black Jenny (anyone who has relayed this joke to Jenny has been rendered conspicuosly absent). Horji is described as having a sort of otherworldy air about him, with people traveling all the way across the seas to come hear him speak and perform. He gained notoriety when he was able to bring the kings and the navy to a truce, ending the 2nd Pirate war. Reluctant to be reffered to as a 'King', Horji only accepts the title to ensure the freedom of all who seek it. Those who took to the seas in search of freedom and the thrill of adventure are most likely to kneel upon seeing Horji, unaware of the Irony
+
+
+#### Bheldus Glitterfist -Wealth
 
 
