@@ -68,16 +68,16 @@ Duration | Instantaneous
  
 Homebound can be cast by an individual, teleporting them and any items on them as well as up to one willing or incapacited individual to the homecrystal they are currently attuned to
 
-The ritual can also be cast by multiple people, provided they are attuned to the same home crystal, in this case they must form a circle to cast the spell, up to 4 willing or incapacitated individuals and a great amount of material located inside the circle be teleported to the attuned home crystal.
+The ritual can also be cast by multiple people, provided they are attuned to the same home crystal, in this case they must form a circle to cast the spell, up to 4 willing or incapacitated individuals and a great amount of material located inside the circle may be teleported to the attuned home crystal.
 
 ## World Specific Items
 
-Name | Cost | Weight |Description
-:----: | :---: | :---: | :-----------:
-Calling Crystal | 200gp |1 lb| Allows the user to teleport one person they are familiar with to their location
-Home Crystal | 10,000gp | 2,750 lb | A large crystal, often times built into the core of a ship, any individuals attuned to the crystal can teleport to it by casting the 'Homebound' ritual
-Common Spyglass | 100gp | 1 lb | A handheld telescope used to magnify objects at a distance
-Arcane Spyglass | 5,000 gp | 1 lb | A spyglass enchanted to allow the user to see with 10x the accuracy and distance of it's common equivalent
+Name | Cost | Weight | Availability |Description
+:----: | :---: | :---: | :--------: | :-----------:
+Calling Crystal | 200gp |1 lb|Wide| Allows the user to teleport one person they are familiar with to their location
+Home Crystal | 10,000gp | 2,750 lb |Specific| A large crystal, often times built into the core of a ship, any individuals attuned to the crystal can teleport to it by casting the 'Homebound' ritual
+Common Spyglass | 100gp | 1 lb |Wide| A handheld telescope used to magnify objects at a distance
+Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the user to see with 10x the accuracy and distance of it's common equivalent
 
 ## World Specific Feats
 
@@ -86,6 +86,12 @@ Arcane Spyglass | 5,000 gp | 1 lb | A spyglass enchanted to allow the user to se
 ## World Specific Rules For Character Creation
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
 
+## Notable Locations and Figures
 
+### Turta' Mara
+Turta' Mara is one of the largest and most populous ports in all of Dagathia, it serves as the unoficial capitol city for those who take up the pirate lifestyle. It is one of the few islands that naval ships refuse to visit, understanding that the long arm of the law can only reach so far. Many crews veiw Turta' Mara as their home port. The port also serves as the location for meetings between the four kings.
+
+### The Four Kings
+One of the defining characteristics of the pirate lifestyle is the refusal to bow to kings or live a life bound by the laws of the common man, however there is a loose code of laws that the pirates do follow, otherwise they would draw the ire of the four Kings, four pirate capitains 
 
 
