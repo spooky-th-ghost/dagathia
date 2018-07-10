@@ -92,6 +92,12 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 Turta' Mara is one of the largest and most populous ports in all of Dagathia, it serves as the unoficial capitol city for those who take up the pirate lifestyle. It is one of the few islands that naval ships refuse to visit, understanding that the long arm of the law can only reach so far. Many crews veiw Turta' Mara as their home port. The port also serves as the location for meetings between the four kings.
 
 ### The Four Kings
-One of the defining characteristics of the pirate lifestyle is the refusal to bow to kings or live a life bound by the laws of the common man, however there is a loose code of laws that the pirates do follow, otherwise they would draw the ire of the four Kings, four pirate capitains 
+One of the defining characteristics of the pirate lifestyle is the refusal to bow to kings or live a life bound by the laws of the common man, however there is a loose code of laws that the pirates do follow, otherwise they would draw the ire of the four Kings, four pirate capitains who serves arbiters and executors of pirate law.
+
+### White-Tusk
+The tall pale Half-Orc/Half-Elf known as White Tusk would appear to most as a complete contradiction. Elves do not associate with Orcs, a race traditionally known to be rather stupid, savage and chaotic, whereas the things White-Tusk are best known for are his vastly surperior intellect, his generally calm and cordial disposition, and his fervor in enforcing the pirates law. It is rumoured that he was the last and only student of Zigarius, the last known golden dragon the world would ever see. Many of those under White-Tusk took to the pirates life to learn all they could of the world, delving in to ancient tombs and ruins in search of hidden secrets.
+### Horji the Radiant - Freedom
+### Black Jenny - Power
+### Bheldus Glitterfist -Wealth
 
 
