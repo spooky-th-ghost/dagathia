@@ -1,7 +1,4 @@
-# Dagathia
-
-
-## Common Ships
+# Common Ships
 With around 90% of the planet covered in water, aquatic vessels serve the primary means of transportation for many. Over the course of history, many different methods of nautical travel have been explored and perfected.
 
 ### Steam Chargers 
@@ -13,7 +10,7 @@ Not all ship builders enjoy tinkering with steam pipes and iron, Arcane Galleons
 ### Orcish Longship
 Some wayfarers prefer not to fix what isn't broken, and opt to utilize the power of those on board to move the ship. The more honorable of these ships will feature a great many noble warriors below deck, rowing when the winds are uncooperative. Sadly much of the time, this is not the case, and you will be likely to find a legion of slaves below decks, populated by those unlucky enough to be captured during an orcish raid. Orcish longships are often repaired by the slaves on board and Helmed by an overseer.
 
-## Ports
+# Ports
 The world of Dagathia thrives on nautical trade, ports are fairly common throughout the region, some ports are known for specific trades and items, in ports players are able to do a number of things:
 * Ship maintenence
 * Buy and sell items
@@ -23,7 +20,7 @@ The world of Dagathia thrives on nautical trade, ports are fairly common through
 
 Ports will also have an allegiance, wether it be to the Navy or The Pirate Lords, wich effects the general attitude of the denziens of the port towards the PC's. Generally this will not have a drastic affect, PC's with a high bounty/reknowned as pirate hunters can still generally trade and interact with a port, with the exception of the faction capitals, if/when the PC's have a strong connection to one side the other sides capital will essentially be off limits, it IS possible to visit the port but the PC's will not be able to safely use the pier, as well as have a high chance of being recognized and captured/killed.
 
-## Nautical Encounters
+# Nautical Encounters
 Roll d100 a number of times based on distance travelled, rolling above the current threat level causes a roll on the dynamic threat table
 * Encounter level is based on current events and the pressence along the route, the following table outlines some more common events that affect threat level
 
@@ -36,7 +33,7 @@ Effect | Dynamic Threat | Description
 -10    | Navy        | A recent naval training exercise or operation has the water swarming wiht naval ships
 -15    | Travelers  | There was a recent trade summit or festival in a nearby port
 
-### Bounty
+## Bounty
 While adventuring through Dagathia, PC's are bound to ruffle the feathers of either the Navy or the various pirate crews roaming the seas. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. The parties bounty will have a lasting impact on the encounter level when traveling the sea 
 
 When travelling between islands roll d100, if the roll is above the encounter level roll on the following table to determine the encounter
@@ -86,10 +83,11 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 ## World Specific Rules For Character Creation
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
 
-# Notable Locations and Figures
+# Notable Figures
 
-## Turta' Mara
-Turta' Mara is one of the largest and most populous ports in all of Dagathia, it serves as the unoficial capitol city for those who take up the pirate lifestyle. It is one of the few islands that naval ships refuse to visit, understanding that the long arm of the law can only reach so far. Many crews veiw Turta' Mara as their home port. The port also serves as the location for meetings between the four kings.
+## The Two Great Factions
+For a great many years Dagathia was plunged into utter chaos, when the races of men learned to build ships to cross the sea, there was no telling what kind of trouble distant sails would bring. From this chaos there rose a man who claimed himself a divine king establishing his reign some time around 600 DE, and through the years his ancestors grew in power and influence, eventually establishing a government. For generations, the royal navy was the only organized power on the seas. Over this time period the navy's grasp on the world lead to tyranny, which as a result, spawned the first pirate age in 850 DE, sparking all out war between the navy and scattered bands of pirates. It would not be until 913 DE  that the pirates elected their first kings, Armun Darkscale and Dathariel Pendelhaven, who joined forces to unify the pirates in their fight against the navy, reaching a shaky truce in 921 DE. Things remained relatively calm until 30 years ago, in 1127 DE, when Fleet Admiral Githwix Frahzlenaff enacted a plan to exterminate all pirate crews from the world, leading to the 2nd Pirate war, which, despite the death of Frahzlenaff in 1134 DE raged on until 1136 DE, when Horji, the Radiant was able to quench the flames of war, helping to negotiate a truce between Fleet Admiral Gerrick Warsong, and the pirate kings White-Tusk, Black Jenny, and Bheldus Glitterfist, sending the war and leading to the drafting of the Fross Accords in 1137 DE, resulting in an uneasy but firm peace, as a result of the war, Horji reluctantly accepted the title of the fourth pirate king in an attempt to pacify the naval fears of revenge.  
+
 
 ## The Four Kings
 One of the defining characteristics of the pirate lifestyle is the refusal to bow to kings or live a life bound by the laws of the common man, however there is a loose code of laws that the pirates do follow, otherwise they would draw the ire of the four Kings, four pirate capitains who serves arbiters and executors of pirate law. Most pirate crews fancy themselves as bannermen of one of these four capitains.
@@ -102,10 +100,24 @@ Little is known about the mysterious figure known as Black Jenny, the little tha
 
 
 #### Horji the Radiant
-It is said that the slight gnome known as Horji could, given the time and audience, seduce even the likes of Black Jenny (anyone who has relayed this joke to Jenny has been rendered conspicuosly absent). Horji is described as having a sort of otherworldy air about him, with people traveling all the way across the seas to come hear him speak and perform. He gained notoriety when he was able to bring the kings and the navy to a truce, ending the 2nd Pirate war. Reluctant to be reffered to as a 'King', Horji only accepts the title to ensure the freedom of all who seek it. Those who took to the seas in search of freedom and the thrill of adventure are most likely to kneel upon seeing the sails of Horji's ship *Romance Dawn*, unaware of the irony.
+It is said that the slight gnome known as Horji could, given the time and audience, seduce even the likes of Black Jenny (anyone who has relayed this joke to Jenny has been rendered conspicuosly absent). Horji is described as having a sort of otherworldy air about him, with people traveling all the way across the seas to come hear him speak and perform. He gained notoriety when he was able to bring the kings and the navy to a truce, ending the 2nd Pirate war, as well is being instrumental in drafting the [NAVAL PORT] accords in. Reluctant to be reffered to as a 'King', Horji only accepts the title to ensure the freedom of all who seek it. Those who took to the seas in search of freedom and the thrill of adventure are most likely to kneel upon seeing the sails of Horji's ship *Romance Dawn*, unaware of the irony.
 
 
 #### Bheldus Glitterfist
-The longest reigning king is none other than the boisterous Dwarven warrior known as Bheldus Glitterfist. Known for his good humor and propensity for revelry, Bheldus most notably of all owns over half of the property in Turta' Mara, resting at his keep there when there is no rumor of new treasure worth finding. Though Bheldus commands great respect and legions of men, he is a simple man, and pursues the most common goal among pirates: Riches. This is more than apparent when one encounters his crew, all clad in glittering armor and jewels atop his massive gold plated steam charger *The Seas Bounty*. It is said that if Bheldus were to upturn his vaults, he could fill the sea itself. 
+The longest reigning king is none other than the boisterous Dwarven warrior known as Bheldus Glitterfist. Known for his good humor and propensity for revelry, Bheldus most notably of all owns over half of the property in Turta' Mara, resting at his keep there when there is no rumor of new treasure worth finding. Though Bheldus commands great respect and legions of men, he is a simple man, and pursues the most common goal among pirates: Riches. This is more than apparent when one encounters his crew, all clad in glittering armor and jewels atop his massive gold plated steam charger *The Seas Bounty*. It is said that if Bheldus were to upturn his vaults, he could fill the sea itself.
+
+## Elite Naval Officers
+
+### Fleet Admiral Gerrick Warsong
+One may look at the fact that pirates outnumber naval soldiers by a factor of 5 to 1 and assume that this means that the navy would have no chance were war to break out again between the Navy and the kings. This individual need only to see Gerrick Warsong in person to likely reverse their oppinion. This seasoned commander of the naval forces iron will and force of mind has been said to render weak men uncocious merely by entering his presence. Though a strict disciplinarian, his obvious concern for the common folk and passion for true justice has earned him the respect of law abiding citizens and pirates alike. It is said that he is the only person to have faced Black Jenny in single combat and lived, earning even her respect, which has generally only ever been extended to the Kings (Horji not included).
+
+
+# Notable Locations
+
+## Turta' Mara
+Turta' Mara is one of the largest and most populous ports in all of Dagathia, it serves as the unoficial capitol city for those who take up the pirate lifestyle. It is one of the few islands that naval ships refuse to visit, understanding that the long arm of the law can only reach so far. Many crews veiw Turta' Mara as their home port. The port also serves as the location for the rate but not unheard of Pirate Summit, in which pirates of great reknown hold audience with the Four Kings.
+
+## Fross Lobby
+If sailing through the northern regions of the sea, it is more likely than not that you will see the Ivory tower of Fross Lobby on the horizon. This Port serves as the royal city of the empire, as well as the barracks and training ground for the Naval elite.
 
 
