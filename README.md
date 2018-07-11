@@ -86,12 +86,12 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 ## World Specific Rules For Character Creation
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
 
-## Notable Locations and Figures
+# Notable Locations and Figures
 
-### Turta' Mara
+## Turta' Mara
 Turta' Mara is one of the largest and most populous ports in all of Dagathia, it serves as the unoficial capitol city for those who take up the pirate lifestyle. It is one of the few islands that naval ships refuse to visit, understanding that the long arm of the law can only reach so far. Many crews veiw Turta' Mara as their home port. The port also serves as the location for meetings between the four kings.
 
-### The Four Kings
+## The Four Kings
 One of the defining characteristics of the pirate lifestyle is the refusal to bow to kings or live a life bound by the laws of the common man, however there is a loose code of laws that the pirates do follow, otherwise they would draw the ire of the four Kings, four pirate capitains who serves arbiters and executors of pirate law. Most pirate crews fancy themselves as bannermen of one of these four capitains.
 
 #### White-Tusk
