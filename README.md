@@ -121,6 +121,17 @@ There are two types of Merfolk that inhabit Dagathia, pick one of the following 
 - **Gifted Mercantile:** You have advantage on Persuasion(Charisma) checks made to negotiate price when buying or selling.
 - **Nimble Fingered:** You gain proficiency in the Sleight of Hand skill.
 
+## Sea Tortle
+- **Ability Score Increase:** Your Wisdom score increases by 2, and your Constitution score increases by 1.
+- **Age:** Sea Tortles reach adulthood by the age of 15 and live an average of 120 years.
+- **Size:** Tortle adults stand 5 to 6 feet tall and average 450 pounds. Their shells account for roughly one third of their weight. Your size is Medium.
+- **Speed:** Your base walking speed is 30 feet. You also have a swimming speed of 20 feet.
+- **Claws:**  Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+- **Hold Breath:** You can hold your breath for up to 3 hours at a time. Sea Tortles are more adapted to the water than their land dwelling cousins.
+- **Natural Armor:** Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal.
+- **Survival Instinct:** You gain proficiency in the Survival skill. Tortles have finely honed survival instincts.
+- **Languages:** You can speak, read, and write Aquan and Common.
+
 
 
 
