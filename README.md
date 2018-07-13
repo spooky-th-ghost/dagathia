@@ -165,18 +165,18 @@ For a great many years Dagathia was plunged into utter chaos, when the races of 
 ## The Four Kings
 One of the defining characteristics of the pirate lifestyle is the refusal to bow to kings or live a life bound by the laws of the common man, however there is a loose code of laws that the pirates do follow, otherwise they would draw the ire of the four Kings, four pirate capitains who serves arbiters and executors of pirate law. Most pirate crews fancy themselves as bannermen of one of these four capitains.
 
-#### White-Tusk
+### White-Tusk
 The tall pale Half-Orc/Half-Elf known as White Tusk would appear to most as a complete contradiction. Elves do not associate with Orcs, a race traditionally known to be rather stupid, savage and chaotic, whereas the things White-Tusk are best known for are his vastly surperior intellect, his generally calm and cordial disposition, and his fervor in enforcing the pirates law. It is rumoured that he was the last and only student of Zigarius, the last known golden dragon the world would ever see. Many of those who pay homage to White-Tusk took to the pirates life to learn all they could of the world, delving in to ancient tombs and ruins in search of hidden secrets and dusty tomes of power, hoping to one day board his ship *The Minds Eye*.
 
-#### Black Jenny
+### Black Jenny
 Little is known about the mysterious figure known as Black Jenny, the little that is known is often shared in hushed tones over a pint, as if the very mention of her name is enough to summon her. Some have heard talk that she can kill men with a mere touch. Fewer still talk about the theory that her crew is chiefly composed of dead men, silently working the oars on her colossal Longship aptly named *Dread*. All in all not much is known about the first female pirate king, but the few brave, or stupid, enough to declare their loyalty for her often do so out of a lust for the kind of power she allegedly holds.
 
 
-#### Horji the Radiant
+### Horji the Radiant
 It is said that the slight gnome known as Horji could, given the time and audience, seduce even the likes of Black Jenny (anyone who has relayed this joke to Jenny has been rendered conspicuosly absent). Horji is described as having a sort of otherworldy air about him, with people traveling all the way across the seas to come hear him speak and perform. He gained notoriety when he was able to bring the kings and the navy to a truce, ending the 2nd Pirate war, as well is being instrumental in drafting the [NAVAL PORT] accords in. Reluctant to be reffered to as a 'King', Horji only accepts the title to ensure the freedom of all who seek it. Those who took to the seas in search of freedom and the thrill of adventure are most likely to kneel upon seeing the sails of Horji's ship *Romance Dawn*, unaware of the irony.
 
 
-#### Bheldus Glitterfist
+### Bheldus Glitterfist
 The longest reigning king is none other than the boisterous Dwarven warrior known as Bheldus Glitterfist. Known for his good humor and propensity for revelry, Bheldus most notably of all owns over half of the property in Turta' Mara, where he can be found resting at his keep when there is no rumor of new treasure worth finding. Though Bheldus commands great respect and legions of men, he is a simple man, and pursues the most common goal among pirates: Riches. This is more than apparent when one encounters his crew, all clad in glittering armor and jewels atop his massive gold plated steam charger *The Seas Bounty*. It is said that if Bheldus were to upturn his vaults, he could fill the sea itself.
 
 ## Elite Naval Officers
