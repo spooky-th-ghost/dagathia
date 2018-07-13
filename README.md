@@ -84,9 +84,22 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
 
 # Adjusted Point Buy
-Ability | STR | DEX | CON | INT | WIS | CHA
-------- | --- | --- | --- | --- | --- | ---
-Starting Value | 8 | 8 | 8 | 8 | 8 | 8
+
+## Variant: Adjusted Point Buy
+To determine the starting ability scores the point by system below can be used, based on the point buy system located in the PHB(pg. 13). Each Ability value starts at 8
+
+Value | Modifier | Cost
+:---: | :------: | :---:
+7 | -2 | -1
+8 | -1 | 0
+9 | -1 | 1
+10 | 0 | 2
+11 | 0 | 3
+12 | +1 | 5
+13 | +1 | 7
+14 | +2 | 9
+15 | +2 | 11
+16 | +3 | 14
 
 
 # Notable Figures
