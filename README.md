@@ -96,6 +96,12 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 - **Strong Swimmer:** You have advantage on Athletics(Strength) checks to swim in choppy water.
 - **Languages:** Merfolk are a naturally social race, largely due to their heritage as merchants specializing in objects that can only be obtained from the sea. You can speak, read, and write Common, Merfolk, and one extra language of your choice.
 
+There are two types of Merfolk that inhabit Dagathia, pick one of the following sub races
+
+#### Deep Dweller
+=================
+
+
 
 
 # Adjusted Point Buy
