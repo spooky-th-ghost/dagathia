@@ -28,7 +28,7 @@ Effect | Dynamic Encounter | Description
 +5     |  ---        | A moderate storm has blown through the region, there are less people out on the water
 +10    |  ---        | A devestating storm has wrecked the area, NO ONE is on the water
 -10    | Monsters    | A tropical storm has agitated the waters, causing monsters to become agitated
--10    | Pirates     | There is rumor of a high amount of treasure in the region, Sending all manner of mid tolow level pirate crews out to the sea
+-10    | Pirates     | There is rumor of a high amount of treasure in the region, Sending all manner of mid to low level pirate crews out to the sea
 -10    | Navy        | A recent naval training exercise or operation has the water swarming wiht naval ships
 -15    | Travelers  | There was a recent trade summit or festival in a nearby port
  
