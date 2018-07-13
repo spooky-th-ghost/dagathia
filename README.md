@@ -86,11 +86,11 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 # Adjusted Point Buy
 
 ## Variant: Adjusted Point Buy
-To determine the starting ability scores the point by system below can be used, based on the point buy system located in the PHB(pg. 13). Each Ability value starts at 8
+To determine the starting ability scores the point by system below can be used, based on the point buy system located in the PHB(pg. 13). Each Ability value starts at 8, with the player being given 30 points
 
 Value | Modifier | Cost
 :---: | :------: | :---:
-7 | -2 | -1
+7 | -2 | -2
 8 | -1 | 0
 9 | -1 | 1
 10 | 0 | 2
