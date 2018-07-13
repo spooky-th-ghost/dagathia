@@ -54,7 +54,7 @@ Players must regularly spend money at a port to maintain the ship and buy food
 * If a player owned ship has a first mate, The first mate will give the party warnings and advice about when they need too, if they neglect this for too long the ship will slowly fall into disrepair
 * Most Ships house a home crystal, a large crystal infused with teleportation magic, allowing anyone attuned to the crystal to cast the spell 'Homebound' teleporting them to the crystal.
 
-## World Specific Spells
+# World Specific Spells
 
 ### Homebound
 Casting Time | 10 Minutes (Ritual)
@@ -67,7 +67,7 @@ Homebound can be cast by an individual, teleporting them and any items on them a
 
 The ritual can also be cast by multiple people, provided they are attuned to the same home crystal, in this case they must form a circle to cast the spell, up to 4 willing or incapacitated individuals and a great amount of material located inside the circle may be teleported to the attuned home crystal.
 
-## World Specific Items
+# World Specific Items
 
 Name | Cost | Weight | Availability |Description
 :----: | :---: | :---: | :--------: | :-----------:
@@ -76,16 +76,16 @@ Home Crystal | 10,000gp | 2,750 lb |Specific| A large crystal, often times built
 Common Spyglass | 100gp | 1 lb |Wide| A handheld telescope used to magnify objects at a distance
 Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the user to see with 10x the accuracy and distance of it's common equivalent
 
-## World Specific Feats
+# World Specific Feats
 
 #### *Coming Soon*
 
 # World Specific Rules For Character Creation
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
 
-## World Specific Races
+# World Specific Races
 
-### Merfolk
+## Merfolk
 
 ### Merfolk Traits
 - **Ability Score Increase:** Your Charisma score increases by 2.
