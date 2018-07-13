@@ -90,16 +90,16 @@ To determine the starting ability scores the point by system below can be used, 
 
 Value | Modifier | Cost
 :---: | :------: | :---:
-7 | -2 | -2
-8 | -1 | 0
-9 | -1 | 1
-10 | 0 | 2
-11 | 0 | 3
-12 | +1 | 4
-13 | +1 | 5
-14 | +2 | 7
-15 | +2 | 9
 16 | +3 | 12
+15 | +2 | 9
+14 | +2 | 7
+13 | +1 | 5
+12 | +1 | 4
+11 | 0 | 3
+10 | 0 | 2
+9 | -1 | 1
+8 | -1 | 0
+7 | -2 | -2
 
 
 # Notable Figures
