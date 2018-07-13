@@ -1,3 +1,15 @@
+# Dagathia
+Dagathia is a campaign setting designed by me (Colin R. Casto). It is set on a planet covered mostly by water, covered by clusters of archipelago. The setting was designed to be played with the *Dungeons & Dragons 5th Edition* ruleset. The setting features the following:
+
+* Various Narrative Elements ( History, Locations, Characters)
+* Rules for Naval Encounters
+* Custom Spells
+* Custom Items
+* Custom Races
+
+anyone is of course free to use the setting, and if you are interested in adding anything feel free to submit a PR
+
+
 # Common Ships
 With around 90% of the planet covered in water, aquatic vessels serve the primary means of transportation for many. Over the course of history, many different methods of nautical travel have been explored and perfected.
 
