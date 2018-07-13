@@ -93,13 +93,22 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 - **Size:** Merfolk are about the same size and build as humans. Your size is Medium.
 - **Speed:** Your base walking speed is 30 feet. You also have a swimming speed of 30 feet.
 - **Amphibious:** You can breathe air and water.
-- **Strong Swimmer:** You have advantage on Athletics(Strength) checks to swim in choppy water.
-- **Languages:** Merfolk are a naturally social race, largely due to their heritage as merchants specializing in objects that can only be obtained from the sea. You can speak, read, and write Common, Merfolk, and one extra language of your choice.
+- **Strong Swimmer:** You have advantage on Athletics(Strength) checks made to swim in choppy water.
+- **Languages:** You can speak, read, and write Common, Merfolk, and one extra language of your choice.
 
 There are two types of Merfolk that inhabit Dagathia, pick one of the following sub races
 
-#### Deep Dweller
-=================
+### Deep Dweller
+- **Ability Score Increase:** Your Constitution score increases by 1.
+- **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+- **Lessons Of The Deep:** You gain proficiency in the Survival skill.
+
+### Wave Skipper
+- **Ability Score Increase:** Your Dexterity score increases by 1.
+- **Gifted Mercantile:** You recieve advantage on Persuasion(Charisma) checks made to negotiate price when buying or selling.
+- **Nimble Fingered:** You gain proficiency in the Sleight of Hand skill.
+
+
 
 
 
@@ -109,7 +118,7 @@ There are two types of Merfolk that inhabit Dagathia, pick one of the following 
 ## Variant: Adjusted Point Buy
 To determine the starting ability scores the point by system below can be used, based on the point buy system located in the PHB(pg. 13). Each Ability value starts at 8, with a minimum of 7 and a maximum of 16 with the player being given 30 points
 
-Value | Modifier | Cost
+Ability Score | Modifier | Cost
 :---: | :------: | :---:
 16 | +3 | 12
 15 | +2 | 9
