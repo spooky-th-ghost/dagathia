@@ -83,6 +83,21 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 # World Specific Rules For Character Creation
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
 
+## World Specific Races
+
+### Merfolk
+
+### Merfolk Traits
+- **Ability Score Increase:** Your Charisma score increases by 2.
+- **Age:** Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often living between 200-350 years.
+- **Size:** Merfolk are about the same size and build as humans. Your size is Medium.
+- **Speed:** Your base walking speed is 30 feet. You also have a swimming speed of 30 feet.
+- **Amphibious:** You can breathe air and water.
+- **Strong Swimmer:** You have advantage on Athletics(Strength) checks to swim in choppy water.
+- **Languages:** Merfolk are a naturally social race, largely due to their heritage as merchants specializing in objects that can only be obtained from the sea. You can speak, read, and write Common, Merfolk, and one extra language of your choice.
+
+
+
 # Adjusted Point Buy
 
 ## Variant: Adjusted Point Buy
