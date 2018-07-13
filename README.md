@@ -105,7 +105,7 @@ There are two types of Merfolk that inhabit Dagathia, pick one of the following 
 
 ### Wave Skipper
 - **Ability Score Increase:** Your Dexterity score increases by 1.
-- **Gifted Mercantile:** You recieve advantage on Persuasion(Charisma) checks made to negotiate price when buying or selling.
+- **Gifted Mercantile:** You have advantage on Persuasion(Charisma) checks made to negotiate price when buying or selling.
 - **Nimble Fingered:** You gain proficiency in the Sleight of Hand skill.
 
 
