@@ -80,8 +80,14 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 
 #### *Coming Soon*
 
-## World Specific Rules For Character Creation
+# World Specific Rules For Character Creation
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
+
+# Adjusted Point Buy
+Ability | STR | DEX | CON | INT | WIS | CHA
+------- | --- | --- | --- | --- | --- | ---
+Starting Value | 8 | 8 | 8 | 8 | 8 | 8
+
 
 # Notable Figures
 
