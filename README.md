@@ -21,10 +21,9 @@ The world of Dagathia thrives on nautical trade, ports are fairly common through
 Ports will also have an allegiance, wether it be to the Navy or The Pirate Lords, wich effects the general attitude of the denziens of the port towards the PC's. Generally this will not have a drastic affect, PC's with a high bounty/reknowned as pirate hunters can still generally trade and interact with a port, with the exception of the faction capitals, if/when the PC's have a strong connection to one side the other sides capital will essentially be off limits, it IS possible to visit the port but the PC's will not be able to safely use the pier, as well as have a high chance of being recognized and captured/killed.
 
 # Nautical Encounters
-Roll d100 a number of times based on distance travelled, rolling above the current threat level causes a roll on the dynamic threat table
-* Encounter level is based on current events and the pressence along the route, the following table outlines some more common events that affect threat level
+On a journey across the seas of Dagathia it is not uncommon to encounter wildlife or other ships.During a voyage, the DM will roll d100 a number of times based on distance travelled, rolling above the current encounter threshhold (base 65) causes a roll on the nautical encounter table. The encounter threshhold is sometimes affected by current events, the following table outlines some common events that affect the encounter threshhold:
 
-Effect | Dynamic Threat | Description
+Effect | Dynamic Encounter | Description
 ------ | ----------- | --------------
 +5     |  ---        | A moderate storm has blown through the region, there are less people out on the water
 +10    |  ---        | A devestating storm has wrecked the area, NO ONE is on the water
@@ -32,11 +31,9 @@ Effect | Dynamic Threat | Description
 -10    | Pirates     | There is rumor of a high amount of treasure in the region, Sending all manner of mid tolow level pirate crews out to the sea
 -10    | Navy        | A recent naval training exercise or operation has the water swarming wiht naval ships
 -15    | Travelers  | There was a recent trade summit or festival in a nearby port
+ 
 
-## Bounty
-While adventuring through Dagathia, PC's are bound to ruffle the feathers of either the Navy or the various pirate crews roaming the seas. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. The parties bounty will have a lasting impact on the encounter level when traveling the sea 
-
-When travelling between islands roll d100, if the roll is above the encounter level roll on the following table to determine the encounter
+When travelling between islands roll d100, if the roll is above the encounter threshhold roll on the following table to determine the encounter
 
 d10 | Encounter | Hostility | Description
 --- | --------- | --------- | -----------
@@ -47,6 +44,10 @@ d10 | Encounter | Hostility | Description
 5   | Travelers | Neutral | Any manner of merchants, bounty hunters, and adventurers
 6 | Neutral/Allied force | Neutral|Whichever faction is not the opposing force|
 7-10 | Dynamic Encounter |-----| Whichever encounter is more likely based on current events
+
+
+## Bounty
+While adventuring through Dagathia, PC's are bound to ruffle the feathers of either the Navy or the various pirate crews roaming the seas. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. The parties bounty will have a lasting impact on the encounter level when traveling the sea
 
 
 ## Ship Mechanics 
