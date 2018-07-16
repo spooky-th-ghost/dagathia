@@ -69,7 +69,7 @@ Players must regularly spend money at a port to maintain the ship and buy food
 
 # World Specific Spells
 
-### Homebound
+## Homebound
 
 Casting Time | 10 Minutes 
 :----: | :----: 
