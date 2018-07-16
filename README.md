@@ -71,7 +71,7 @@ Players must regularly spend money at a port to maintain the ship and buy food
 
 ### Homebound
 Casting Time | 10 Minutes
-:---: | :---:
+:---: | :---: 
 Range | Self
 Components | V S
 Duration | Instantaneous
@@ -83,7 +83,7 @@ The ritual can also be cast by multiple people, provided they are attuned to the
 # World Specific Items
 
 Name | Cost | Weight | Availability |Description
-:----: | :---: | :---: | :--------: | :-----------:
+:----: | :---: | :---: | :--------: | :-----------: 
 Calling Crystal | 200gp |1 lb|Wide| Allows the user to teleport one person they are familiar with to their location
 Home Crystal | 10,000gp | 2,750 lb |Specific| A large crystal, often times built into the core of a ship, any individuals attuned to the crystal can teleport to it by casting the 'Homebound' ritual
 Common Spyglass | 100gp | 1 lb |Wide| A handheld telescope used to magnify objects at a distance
