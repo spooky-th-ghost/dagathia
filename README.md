@@ -69,12 +69,12 @@ Players must regularly spend money at a port to maintain the ship and buy food
 
 # World Specific Spells
 
-### Homebound
-Casting Time | 10 Minutes | GBB
-:----: | :----: | :---: 
-Range | Self | GDE
-Components | V S | GRT
-Duration | Instantaneous | ERG
+Homebound | Cantrip
+:----: | :----: 
+Casting Time | 10 Minutes 
+Range | Self 
+Components | V S 
+Duration | Instantaneous 
  
 Homebound can be cast by an individual, teleporting them and any items on them as well as up to one willing or incapacited individual to the homecrystal they are currently attuned to
 
