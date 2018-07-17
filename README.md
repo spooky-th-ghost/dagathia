@@ -72,6 +72,7 @@ Players must regularly spend money at a port to maintain the ship and buy food
 ## Homebound
 
 
+:----: | :----: 
 Range | Self 
 Components | V S 
 Duration | Instantaneous 
