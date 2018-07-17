@@ -71,7 +71,7 @@ Players must regularly spend money at a port to maintain the ship and buy food
 
 ## Homebound
 
-
+Casting Time | 10 Minutes 
 :----: | :----: 
 Range | Self 
 Components | V S 
