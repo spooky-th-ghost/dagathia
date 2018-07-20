@@ -141,7 +141,7 @@ There are two types of Merfolk that inhabit Dagathia, pick one of the following 
 # Adjusted Point Buy
 
 ## Variant: Adjusted Point Buy
-To determine the starting ability scores the point by system below can be used, based on the point buy system located in the PHB(pg. 13). Each Ability value starts at 8, with a minimum of 7 and a maximum of 16 with the player being given 30 points. [To make things easier, I made this page to calculate your ability scores](https://colinrcasto.github.io/dagthia_point_buy/)
+To determine the starting ability scores the point by system below can be used, based on the point buy system located in the PHB(pg. 13). Each Ability value starts at 8, with a minimum of 7 and a maximum of 16 with the player being given 30 points. [To make things easier, I made this page to calculate ability scores using this system](https://colinrcasto.github.io/dagathia_point_buy/)
 
 Ability Score | Modifier | Cost
 :---: | :------: | :---:
