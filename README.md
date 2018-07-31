@@ -7,7 +7,7 @@ Dagathia is a campaign setting designed by me (Colin R. Casto). It is set on a p
 * Custom Items
 * Custom Races
 
-anyone is of course free to use the setting, and if you are interested in adding anything feel free to submit a PR
+anyone is of course free to use the setting, and if you are interested in adding anything feel free to submit a PR, I periodically publish this through GMbinder.com, the latest version can be veiwed here https://www.gmbinder.com/share/-LIgg6fnkks7qOebtRgs
 
 
 # Common Ships
