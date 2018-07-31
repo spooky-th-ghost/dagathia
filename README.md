@@ -182,6 +182,8 @@ The longest reigning king is none other than the boisterous Dwarven warrior know
 
 ## Elite Naval Officers
 
+As within any organization there are those who show exceptional promise and ability, the navy is no exception. Each of the elite admirals serves as the personification of the Navy's might
+
 ### Fleet Admiral Gerrick Warsong
 One may look at the fact that pirates outnumber naval soldiers by a factor of 5 to 1 and assume that this means that the navy would have no chance were war to break out again between the Navy and the kings. This individual need only to see Gerrick Warsong in person to likely reverse their oppinion. This seasoned commander of the naval forces iron will and force of mind has been said to render weak men uncocious merely by entering his presence. Though a strict disciplinarian, his obvious concern for the common folk and passion for true justice has earned him the respect of law abiding citizens and pirates alike. It is said that he is the only person to have faced Black Jenny in single combat and lived, earning even her respect, which has generally only ever been extended to the Kings (Horji not necessarily included). The large pristine white sails of his vessel *Peace* serve as a sign of the Navy's strength to it's supporters, and a sign to sail the other direction for any pirates unfortunate enough to see them.
 
@@ -199,4 +201,14 @@ Turta' Mara is one of the largest and most populous ports in all of Dagathia, it
 ## Fross Lobby
 If sailing through the northern regions of the sea, it is more likely than not that you will see the Ivory tower of Fross Lobby on the horizon. This Port serves as the royal city of the empire, as well as the barracks and training ground for the Naval elite.
 
+### Ag' Tosu
+A small neutral port in the south of the center sea, unremarkable but due to it's proximity to several more notable locations, this port can serve as a useful location to gather information
 
+### Bowbreakers Cove
+The only truly lawless Island of any significant population size. Home to most orcish slavers, the Island is one of the most defensible ports in the world, largely due to the sharp outcroppings of rocks surrounding the area.
+
+### Crows Rest
+A mid size island, home to a fairly large population, as well as being a considerable agricultural hub for the Center Sea
+
+### Isle De Taako
+Small island that serves as the domain of the lone Cleric Taako
