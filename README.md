@@ -1,3 +1,4 @@
+
 # Dagathia
 Dagathia is a campaign setting designed by me (Colin R. Casto). It is set on a planet covered mostly by water, covered by clusters of archipelago. The setting was designed to be played with the *Dungeons & Dragons 5th Edition* ruleset. The setting features the following:
 
@@ -7,10 +8,8 @@ Dagathia is a campaign setting designed by me (Colin R. Casto). It is set on a p
 * Custom Items
 * Custom Races
 
-anyone is of course free to use the setting, and if you are interested in adding anything feel free to submit a PR, I periodically publish this through GMbinder.com, the latest version can be veiwed here https://www.gmbinder.com/share/-LIgg6fnkks7qOebtRgs
 
-
-# Common Ships
+## Common Ships
 With around 90% of the planet covered in water, aquatic vessels serve the primary means of transportation for many. Over the course of history, many different methods of nautical travel have been explored and perfected.
 
 ### Steam Chargers 
@@ -22,7 +21,9 @@ Not all ship builders enjoy tinkering with steam pipes and iron, Arcane Galleons
 ### Orcish Longship
 Some wayfarers prefer not to fix what isn't broken, and opt to utilize the power of those on board to move the ship. The more honorable of these ships will feature a great many noble warriors below deck, rowing when the winds are uncooperative. Sadly much of the time, this is not the case, and you will be likely to find a legion of slaves below decks, populated by those unlucky enough to be captured during an orcish raid. Orcish longships are often repaired by the slaves on board and Helmed by an overseer.
 
-# Ports
+
+
+## Ports
 The world of Dagathia thrives on nautical trade, ports are fairly common throughout the region, some ports are known for specific trades and items, in ports players are able to do a number of things:
 * Ship maintenence
 * Buy and sell items
@@ -32,7 +33,7 @@ The world of Dagathia thrives on nautical trade, ports are fairly common through
 
 Ports will also have an allegiance, wether it be to the Navy or The Pirate Lords, wich effects the general attitude of the denziens of the port towards the PC's. Generally this will not have a drastic affect, PC's with a high bounty/reknowned as pirate hunters can still generally trade and interact with a port, with the exception of the faction capitals, if/when the PC's have a strong connection to one side the other sides capital will essentially be off limits, it IS possible to visit the port but the PC's will not be able to safely use the pier, as well as have a high chance of being recognized and captured/killed.
 
-# Nautical Encounters
+## Nautical Encounters
 On a journey across the seas of Dagathia it is not uncommon to encounter wildlife or other ships. During a voyage, the DM will roll d100 a number of times based on distance travelled, rolling above the current encounter threshhold (base 65) causes a roll on the nautical encounter table. The encounter threshhold is sometimes affected by current events, the following table outlines some common events that affect the encounter threshhold:
 
 Effect | Dynamic Encounter | Description
@@ -47,6 +48,8 @@ Effect | Dynamic Encounter | Description
 
 When travelling between islands roll d100, if the roll is above the encounter threshhold roll on the following table to determine the encounter
 
+\pagebreakNum
+
 d10 | Encounter | Hostility | Description
 --- | --------- | --------- | -----------
 --- | Pirates | with grey or white bounty pirates serve as the opposing force | Outlaws of the sea
@@ -57,7 +60,6 @@ d10 | Encounter | Hostility | Description
 6 | Neutral/Allied force | Neutral|Whichever faction is not the opposing force|
 7-10 | Dynamic Encounter |-----| Whichever encounter is more likely based on current events
 
-
 ## Bounty
 While adventuring through Dagathia, PC's are bound to ruffle the feathers of either the Navy or the various pirate crews roaming the seas. The party is capabale of accruing two seperate bounties which will either be a black bounty issued by the navy for breaking the law, or a white bounty, issued by the pirate lords for defying their laws or capturing and killing important pirates. These bounties reflect the way various factions and NPC's view the party, affecting the sort of encounters they will see, these two bounties are not necesarily inversely proportionate, it is possible to accrue a high bounty with both factions, most often actions that offend the navy will gain favor with pirates and vice versa. The parties bounty will have a lasting impact on the encounter level when traveling the sea
 
@@ -67,21 +69,20 @@ Players must regularly spend money at a port to maintain the ship and buy food
 * If a player owned ship has a first mate, The first mate will give the party warnings and advice about when they need too, if they neglect this for too long the ship will slowly fall into disrepair
 * Most Ships house a home crystal, a large crystal infused with teleportation magic, allowing anyone attuned to the crystal to cast the spell 'Homebound' teleporting them to the crystal.
 
-# World Specific Spells
+## World Specific Spells
 
-## Homebound
+### Homebound
 
-Casting Time | 10 Minutes 
-:----: | :----: 
-Range | Self 
-Components | V S 
-Duration | Instantaneous 
+**Casting Time**: 10 Minutes  
+**Range**: Self  
+**Components**: V S   
+**Duration**: Instantaneous   
  
 Homebound can be cast by an individual, teleporting them and any items on them as well as up to one willing or incapacited individual to the homecrystal they are currently attuned to
 
 The ritual can also be cast by multiple people, provided they are attuned to the same home crystal, in this case they must form a circle to cast the spell, up to 4 willing or incapacitated individuals and a great amount of material located inside the circle may be teleported to the attuned home crystal.
 
-# World Specific Items
+## World Specific Items
 
 Name | Cost | Weight | Availability |Description
 :----: | :---: | :---: | :--------: | :-----------: 
@@ -90,18 +91,19 @@ Home Crystal | 10,000gp | 2,750 lb |Specific| A large crystal, often times built
 Common Spyglass | 100gp | 1 lb |Wide| A handheld telescope used to magnify objects at a distance
 Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the user to see with 10x the accuracy and distance of it's common equivalent
 
-# World Specific Feats
-
+## World Specific Feats
 #### *Coming Soon*
 
-# World Specific Rules For Character Creation
+\pagebreakNum
+
+## World Specific Rules For Character Creation
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
 
-# World Specific Races
+## World Specific Races
 
-## Merfolk
+### Merfolk
 
-### Merfolk Traits
+#### Merfolk Traits
 - **Ability Score Increase:** Your Charisma score increases by 2.
 - **Age:** Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often living between 200-350 years.
 - **Size:** Merfolk are about the same size and build as humans. Your size is Medium.
@@ -112,17 +114,18 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 
 There are two types of Merfolk that inhabit Dagathia, pick one of the following sub races
 
-### Deep Dweller
+#### Deep Dweller
 - **Ability Score Increase:** Your Constitution score increases by 1.
 - **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 - **Lessons Of The Deep:** You gain proficiency in the Survival skill.
 
-### Wave Skipper
+#### Wave Skipper
 - **Ability Score Increase:** Your Dexterity score increases by 1.
 - **Gifted Mercantile:** You have advantage on Persuasion(Charisma) checks made to negotiate price when buying or selling.
 - **Nimble Fingered:** You gain proficiency in the Sleight of Hand skill.
 
-## Sea Tortle
+### Sea Tortle
+#### Sea Tortle Traits
 - **Ability Score Increase:** Your Wisdom score increases by 2, and your Constitution score increases by 1.
 - **Age:** Sea Tortles reach adulthood by the age of 15 and live an average of 120 years.
 - **Size:** Tortle adults stand 5 to 6 feet tall and average 450 pounds. Their shells account for roughly one third of their weight. Your size is Medium.
@@ -132,13 +135,6 @@ There are two types of Merfolk that inhabit Dagathia, pick one of the following 
 - **Shell Defense:** You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
 - **Survival Instinct:** You gain proficiency in the Survival skill. Tortles have finely honed survival instincts.
 - **Languages:** You can speak, read, and write Aquan and Common.
-
-
-
-
-
-
-# Adjusted Point Buy
 
 ## Variant: Adjusted Point Buy
 To determine the starting ability scores the point by system below can be used, based on the point buy system located in the PHB(pg. 13). Each Ability value starts at 8, with a minimum of 7 and a maximum of 16 with the player being given 30 points. [To make things easier, I made this page to calculate ability scores using this system](https://colinrcasto.github.io/dagathia_point_buy/)
@@ -156,6 +152,7 @@ Ability Score | Modifier | Cost
 8 | -1 | 0
 7 | -2 | -2
 
+\pagebreakNum
 
 # Notable Figures
 
@@ -167,7 +164,9 @@ For a great many years Dagathia was plunged into utter chaos, when the races of 
 One of the defining characteristics of the pirate lifestyle is the refusal to bow to kings or live a life bound by the laws of the common man, however there is a loose code of laws that the pirates do follow, otherwise they would draw the ire of the four Kings, four pirate capitains who serves arbiters and executors of pirate law. Most pirate crews fancy themselves as bannermen of one of these four capitains.
 
 ### White-Tusk
-The tall pale Half-Orc/Half-Elf known as White Tusk would appear to most as a complete contradiction. Elves do not associate with Orcs, a race traditionally known to be rather stupid, savage and chaotic, whereas the things White-Tusk are best known for are his vastly surperior intellect, his generally calm and cordial disposition, and his fervor in enforcing the pirates law. It is rumoured that he was the last and only student of Zigarius, the last known golden dragon the world would ever see. Many of those who pay homage to White-Tusk took to the pirates life to learn all they could of the world, delving in to ancient tombs and ruins in search of hidden secrets and dusty tomes of power, hoping to one day board his ship *The Minds Eye*.
+The tall pale Half-Orc/Half-Elf known as White Tusk would appear to most as a complete contradiction. Elves do not associate with Orcs, a race traditionally known to be rather stupid, savage and chaotic, whereas the things White-Tusk are best known for are his vastly surperior intellect, his generally calm and cordial disposition, and his fervor in enforcing the pirates law. It is rumoured that he was the last and only student of Zigarius, the last known golden dragon the world would ever see. Many of those who pay homage to White-Tusk took to the pirates life to learn all they could of the world, delving in to ancient tombs and ruins in search of hidden secrets and dusty tomes of power, hoping to one day board his ship *The Minds Eye*.  
+
+\columnbreak
 
 ### Black Jenny
 Little is known about the mysterious figure known as Black Jenny, the little that is known is often shared in hushed tones over a pint, as if the very mention of her name is enough to summon her. Some have heard talk that she can kill men with a mere touch. Fewer still talk about the theory that her crew is chiefly composed of dead men, silently working the oars on her colossal Longship aptly named *Dread*. All in all not much is known about the first female pirate king, but the few brave, or stupid, enough to declare their loyalty for her often do so out of a lust for the kind of power she allegedly holds.
@@ -180,8 +179,9 @@ It is said that the slight gnome known as Horji could, given the time and audien
 ### Bheldus Glitterfist
 The longest reigning king is none other than the boisterous Dwarven warrior known as Bheldus Glitterfist. Known for his good humor and propensity for revelry, Bheldus most notably of all owns over half of the property in Turta' Mara, where he can be found resting at his keep when there is no rumor of new treasure worth finding. Though Bheldus commands great respect and legions of men, he is a simple man, and pursues the most common goal among pirates: Riches. This is more than apparent when one encounters his crew, all clad in glittering armor and jewels atop his massive gold plated steam charger *The Seas Bounty*. It is said that if Bheldus were to upturn his vaults, he could fill the sea itself.
 
-## Elite Naval Officers
+\pagebreakNum
 
+## Elite Naval Officers
 As within any organization there are those who show exceptional promise and ability, the navy is no exception. Each of the elite admirals serves as the personification of the Navy's might
 
 ### Fleet Admiral Gerrick Warsong
@@ -193,12 +193,24 @@ Ships capitains often pray to various deities for a safe voyage and good winds, 
 ### Admiral Iron-Jaw Shieldbreaker
 If Gerrick Warsong is the Ivory tower of Fross Lobby, Iron-Jaw Shieldbreaker is assurely the Guiotine at the foot of it. This hulking Orc has charge of the persecution and capture of all wanted criminals on the seas of Dagathia. One would hope that an Orc of high enough mental capacity to hold a supreme office wouldn't be kinder than his naturally dull bretheren, unfortunately all of Admiral Shieldbreakers wit and cunning are singularly focused on the hunt. When asked to describe his newly appointed protege, the late Fleet Admiral Githwix Frahzlenaff said of Shieldbreaker, "Much like a rabid dog, but far smarter". His ship *Iron Justice* serves as an Ill omen for all of those who carry a naval bounty.
 
-# Notable Locations
+<br>
+<br>
+<br>
+<br>
+<br>
 
-## Turta' Mara
+### Admiral [REDACTED]
+The main reason that not much is known about [REDACTED] is largely due to the nature of [REDACTED]'s work. All that is known is that [REDACTED] was appointed by Fleet Admiral Warsong, on the date of [REDACTED]CE. [REDACTED]'s ship is aptly called *[REDACTED]*. There have been rumors of those who will pay large sums of money for information on [REDACTED], however these individuals don't seem to be heard from soon after their offer has been made.  
+
+
+
+## Notable Locations
+<br>
+
+### Turta' Mara
 Turta' Mara is one of the largest and most populous ports in all of Dagathia, it serves as the unoficial capitol city for those who take up the pirate lifestyle. It is one of the few islands that naval ships refuse to visit, understanding that the long arm of the law can only reach so far. Many crews veiw Turta' Mara as their home port. The port also serves as the location for the rate but not unheard of Pirate Summit, in which pirates of great reknown hold audience with the Four Kings.
 
-## Fross Lobby
+### Fross Lobby
 If sailing through the northern regions of the sea, it is more likely than not that you will see the Ivory tower of Fross Lobby on the horizon. This Port serves as the royal city of the empire, as well as the barracks and training ground for the Naval elite.
 
 ### Ag' Tosu
@@ -212,3 +224,8 @@ A mid size island, home to a fairly large population, as well as being a conside
 
 ### Isle De Taako
 Small island that serves as the domain of the lone Cleric Taako
+
+
+
+
+
