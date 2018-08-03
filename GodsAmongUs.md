@@ -34,7 +34,7 @@ Creatures that succeed this save 3 times in their life become immune, creatures 
 - Wizard: Bladsinger + Illusion Savant
 
 # Death Incarnate
-- Auto Succeed all CHA and WIS Saves
+- Detect thoughts at will
 - Many more spell slots
 - All raised Spectres are kept until released
 - Warlock: Great Old Ones + Hexblade
@@ -47,6 +47,6 @@ Creatures that succeed this save 3 times in their life become immune, creatures 
 
 # The Head that wears the crown
 - Can turn objects to gold on touch
-- Succeed All Con Checks
+- Acts twice in the innitiative order
 - Doubles Armor Bonus
 - Fighter: Battlemaster + []
