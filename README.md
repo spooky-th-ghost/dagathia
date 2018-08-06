@@ -220,7 +220,7 @@ A small neutral port in the south of the center sea, unremarkable but due to it'
 The only truly lawless Island of any significant population size. Home to most orcish slavers, the Island is one of the most defensible ports in the world, largely due to the sharp outcroppings of rocks surrounding the area.
 
 ### Crows Rest
-A mid size island, home to a fairly large population, as well as being a considerable agricultural hub for the Center Sea
+A mid size island, home to one of the larger mountains in the center sea
 
 ### Isle De Taako
 Small island that serves as the domain of the lone Cleric Taako
