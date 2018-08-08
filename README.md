@@ -96,8 +96,25 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 
 \pagebreakNum
 
-## World Specific Rules For Character Creation
+## World Specific Rules
 1st level characters may take profieciency with a tool of their choice in addition to any proficiencies they would already gain from their class. The world of Dagathia is fundamentally built on the trade of goods and services, it would be almost impossible to find someone who has no sort of professional training.
+
+### Exhaustive Casting and Exhaustive Surge
+Players are able to sometime accomplish amazing feats at the cost of drawing on their very life force, causing them to receive levels of exhaustion dependent on the feat they accomplish.
+
+#### Exhaustive Casting
+If a player has the spell casting class feature and has no remaining spell slots, they may still cast spells, for a price. The player may cast any spell of a level they can normally cast, after which they will recieve levels of exhaustion equal to the spells level. If these levels of exhaustion cause the player to die they may only be brought back via a 'Wish' spell, or a 'True Ressurrection' spell. A player may also choose to cast a 7th level spell with this feature, if they do, they cannot be brought back to life by any means.
+
+
+#### Exhaustive Surge
+If a player wishes to do so, they may take an additional action on their turn at the cost of levels of exhaustion. This CAN be used more than once in a turn, in this case each additional action will cost levels of exhaustion equal to the previous use of this feature this turn, plus one. for instance:
+
+
+Cost | Additional Actions
+:---: | :---:
+1 | 1
+3 | 2
+6 | 3
 
 ## World Specific Races
 
