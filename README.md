@@ -103,7 +103,7 @@ Arcane Spyglass | 5,000 gp | 1 lb |Specific| A spyglass enchanted to allow the u
 Players are able to sometime accomplish amazing feats at the cost of drawing on their very life force, causing them to receive levels of exhaustion dependent on the feat they accomplish.
 
 #### Exhaustive Casting
-If a player has the spell casting class feature and has no remaining spell slots, they may still cast spells, for a price. The player may cast any spell of a level they can normally cast, after which they will recieve levels of exhaustion equal to the spells level. If these levels of exhaustion cause the player to die they may only be brought back via a 'Wish' spell, or a 'True Ressurrection' spell. A player may also choose to cast a 7th level spell with this feature, if they do, they cannot be brought back to life by any means.
+If a player has the spell casting class feature and has no remaining spell slots, they may still cast spells, for a price. The player may cast any spell of a level they can normally cast, after which they will recieve levels of exhaustion equal to the spells level. If these levels of exhaustion cause the player to die they may only be brought back via a 'Wish' spell, or a 'True Ressurrection' spell. A player may also choose to cast a 7th level spell with this feature, if they do, they cannot be brought back to life by any means. These levels of exhaustion are gained once the player has finished casting the spell (not finished concentrating)
 
 
 #### Exhaustive Surge
@@ -115,6 +115,8 @@ Cost | Additional Actions
 1 | 1
 3 | 2
 6 | 3
+
+These levels of exhaustion are recieved once the player ends their turn.
 
 ## World Specific Races
 
