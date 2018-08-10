@@ -5,7 +5,7 @@ Creatures that succeed this save 3 times in their life become immune, creatures 
 
 # The Tallest Wall in the World
 - Can Quivering Palm all creatures in a 30ft cone
-- Adds Con and Dex to AC while unarmored
+- Adds CON, WIS, and DEX to AC while unarmored
 - Can Deflect Missile Spells
 - Monk: Open Hand + Tranquility
 
