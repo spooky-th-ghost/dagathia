@@ -196,7 +196,7 @@ It is said that the slight gnome known as Horji could, given the time and audien
 
 
 ### Bheldus Glitterfist
-The longest reigning king is none other than the boisterous Dwarven warrior known as Bheldus Glitterfist. Known for his good humor and propensity for revelry, Bheldus most notably of all owns over half of the property in Turta' Mara, where he can be found resting at his keep when there is no rumor of new treasure worth finding. Though Bheldus commands great respect and legions of men, he is a simple man, and pursues the most common goal among pirates: Riches. This is more than apparent when one encounters his crew, all clad in glittering armor and jewels atop his massive gold plated steam charger *The Seas Bounty*. It is said that if Bheldus were to upturn his vaults, he could fill the sea itself.
+The longest reigning king is none other than the boisterous Dwarven warrior known as Bheldus Glitterfist. Known for his good humor and propensity for revelry, Bheldus most notably of all owns over half of the property in Tura' Mara, where he can be found resting at his keep when there is no rumor of new treasure worth finding. Though Bheldus commands great respect and legions of men, he is a simple man, and pursues the most common goal among pirates: Riches. This is more than apparent when one encounters his crew, all clad in glittering armor and jewels atop his massive gold plated steam charger *The Seas Bounty*. It is said that if Bheldus were to upturn his vaults, he could fill the sea itself.
 
 \pagebreakNum
 
@@ -226,11 +226,11 @@ The main reason that not much is known about [REDACTED] is largely due to the na
 ## Notable Locations
 <br>
 
-### Turta' Mara
-Turta' Mara is one of the largest and most populous ports in all of Dagathia, it serves as the unoficial capitol city for those who take up the pirate lifestyle. It is one of the few islands that naval ships refuse to visit, understanding that the long arm of the law can only reach so far. Many crews veiw Turta' Mara as their home port. The port also serves as the location for the rate but not unheard of Pirate Summit, in which pirates of great reknown hold audience with the Four Kings.
+### Tura' Mara
+Tura' Mara is one of the largest and most populous ports in all of Dagathia, it serves as the unoficial capitol city for those who take up the pirate lifestyle. It is one of the few islands that naval ships refuse to visit, understanding that the long arm of the law can only reach so far. Many crews veiw Tura' Mara as their home port. The port also serves as the location for the rate but not unheard of Pirate Summit, in which pirates of great reknown hold audience with the Four Kings.
 
 ### Fross Lobby
-If sailing through the northern regions of the sea, it is more likely than not that you will see the Ivory tower of Fross Lobby on the horizon. This Port serves as the royal city of the empire, as well as the barracks and training ground for the Naval elite.
+If sailing through the northern regions of the sea, it is more likely than not that you will see the Ivory tower of Fross Lobby on the horizon. This Port serves as the capital city of the naval empire, as well as the university that has trained naval elite for centuries.
 
 ### Ag' Tosu
 A small neutral port in the south of the center sea, unremarkable but due to it's proximity to several more notable locations, this port can serve as a useful location to gather information
@@ -242,7 +242,10 @@ The only truly lawless Island of any significant population size. Home to most o
 A mid size island, home to one of the larger mountains in the center sea
 
 ### Isle De Taako
-Small island that serves as the domain of the lone Cleric Taako
+Small island that serves as base for the crew of the *Widows Whale*
+
+### Sparad a' Rith
+Few things are sacred in dagathia, the altar at Sparad a' Rith is one of those few things. To bring someone back from the dead is no small task. With the soul fleeing the body in mere moments, it quickly becomes impossible for a soul to find its way back to it's desired vessel. The altar at Sparad' a Rith, built thousands of years ago by a nameless people who have long since disapeared from the seas, serves as a sort of waypoint for the souls of the dead. If someone important to you is lost, the rumors say that the only way to bring them back is to sail into the mouth of death itself to find them, although, few are able to make the journey without joining those they've lost.
 
 
 
