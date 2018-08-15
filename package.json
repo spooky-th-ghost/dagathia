@@ -1,7 +1,9 @@
-
 {
   "name": "Dagathia",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "markdown": "0.5.0"
+  }
 }
